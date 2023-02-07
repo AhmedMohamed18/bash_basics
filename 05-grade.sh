@@ -2,7 +2,7 @@
 
 
 echo "What did you get in the first ITEC 3860 test?"
-echo "Please give a numeric answer"
+echo "I got 90"
 read grade
 
 if [ $grade -ge 90 ]; then
